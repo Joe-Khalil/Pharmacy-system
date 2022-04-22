@@ -1,0 +1,17 @@
+- LOGIN DETAILS -
+
+admin - username = admin 
+        password = admin
+
+pharmacist - username = osoro 
+             password = 1234
+
+cashier - username= gty 
+          password = getty
+
+manager -username = samoso 
+         password = 12345
+
+DON'T FORGET TO CREATE A DATABASE NAMING "pharmacy.sql" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
